@@ -43,7 +43,7 @@ li a:hover {
 .gambar {
     width:100% ;
     height: 400px ;
-    background-image: url(/imags.jpeg);
+    background-image: url(imags.jpeg);
     background-size: cover;
     background-position: center;
     border: 2px solid black;
